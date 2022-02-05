@@ -42,5 +42,5 @@ class Trainee extends Person {
     );
   }
 }
-let trainee = new Trainee("Dobariya", "BE", "VVPEC", "GTU", 2022);
+let trainee = new Trainee("A", "BE", "XYZ", "GTU", 2022);
 trainee.dispaly();
