@@ -43,6 +43,7 @@ const mainFun = (arr) => {
 
   const changeName = "George";
   const updtPatient = op1.filter((item) => item.name !== changeName);
+
   console.log(updtPatient);
   console.log("Done with filtering");
 
